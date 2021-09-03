@@ -1,6 +1,6 @@
 {
     "name": "lambda-api-backend",
-    "description": "Website & Mobile starter project",
+    "description": "API Gateway and Lambda 演示",
     "version": "0.0.1",
     "private": true,
     "dependencies": {

@@ -10,6 +10,7 @@ const tableName = process.env.SAMPLE_TABLE;
 
 /**
  * A simple example includes a HTTP delete method to delete one item by id from a DynamoDB table.
+ * 更新代码自动触发构建
  */
 exports.deleteByIdHandler = async (event) => {
     const { httpMethod, path, pathParameters } = event;
